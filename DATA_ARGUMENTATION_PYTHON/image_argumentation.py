@@ -1,4 +1,4 @@
-# !bash/usr/env python
+#! /usr/bin/env python
 
 # This file define python script to get image properities.
 
